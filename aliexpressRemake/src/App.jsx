@@ -5,13 +5,18 @@ import './App.css'
 import './header/Header.jsx'
 import Header from './header/Header.jsx'
 import Lista from './lista/Lista.jsx'
+import Oferta from './anuncios/Oferta.jsx'
+import OfertaDoDia from './anuncios/OfertaDoDia.jsx'
+import OfertaEletronicos from './anuncios/OfertaEletronicos.jsx'
 
 function App() {
   return (
     <>
     <Header></Header>
     <Lista></Lista>
-    <h1> aliexpress</h1>
+    <Oferta></Oferta>
+    <OfertaDoDia></OfertaDoDia>
+    <OfertaEletronicos></OfertaEletronicos>
     </>
   )
 }
