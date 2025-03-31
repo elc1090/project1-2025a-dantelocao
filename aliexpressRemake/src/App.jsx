@@ -8,6 +8,7 @@ import Lista from './lista/Lista.jsx'
 import Oferta from './anuncios/Oferta.jsx'
 import OfertaDoDia from './anuncios/OfertaDoDia.jsx'
 import OfertaEletronicos from './anuncios/OfertaEletronicos.jsx'
+import ListaOfertas from './anuncios/ListaOfertas.jsx'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Oferta></Oferta>
     <OfertaDoDia></OfertaDoDia>
     <OfertaEletronicos></OfertaEletronicos>
+    <ListaOfertas></ListaOfertas>
     </>
   )
 }

@@ -16,24 +16,28 @@ Acesso: Substitua este texto pela URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Dante Dardaque Santos - Sistemas de informação
 
 #### Cliente
-Substitua este texto pela identificação do cliente
-
+Eduardo Bender Tiggemann
 
 
 
 #### Site/app original
 
 ##### Link
-Substitua este texto pela URL do site/app escolhido
+https://pt.aliexpress.com/
 
 ##### Descrição
-Substitua este texto por uma descrição do site/app escolhido. Inclua observações sobre seu conteúdo, aparência e código.
+Conteúdo: O site disponibiliza produtos de diversas categorias, como eletrônicos, moda, casa, brinquedos e muito mais, vendidos por fornecedores de diferentes partes do mundo.
+
+Aparência: Possui um design dinâmico e colorido, com banners promocionais chamativos e uma interface intuitiva. Há menus bem organizados e filtros para facilitar a navegação.
+
+Código: O AliExpress utiliza uma estrutura baseada em JavaScript, React e Vue.js. O back-end provavelmente envolve tecnologias como Node.js e bancos de dados para lidar com o grande volume de usuários e transações.
+
 
 #### Demanda do(a) cliente
-Substitua este texto pela demanda do(a) cliente
+Remover o excesso de anúncios pop-up assim que a página inicial carrega
 
 #### Desenvolvimento
 
@@ -41,17 +45,15 @@ Substitua este texto por uma descrição do processo de desenvolvimento, explica
 
 
 #### Tecnologias
-
-Substitua este trecho por uma lista detalhada de tecnologias usadas (tanto as básicas, como HTML e CSS, como as mais específicas, por exemplo Tailwind, etc.):
-- ...
-- ...
-- 
+- Vite para criação inicial do projeto
+- HTML e CSS
+- React
+- Tailwind
 
 #### Ambiente de desenvolvimento
-
 Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desenvolvimento que você usou (por exemplo, VS Code + alguma extensão, etc.)
-- ...
-- ...
+- VS Code + Extensions for React, React-Native and Redux in JS/TS and Live Server
+- GitHub 
 
 #### Referências e créditos
 
