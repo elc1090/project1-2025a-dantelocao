@@ -9,6 +9,7 @@ import Oferta from './anuncios/Oferta.jsx'
 import OfertaDoDia from './anuncios/OfertaDoDia.jsx'
 import OfertaEletronicos from './anuncios/OfertaEletronicos.jsx'
 import ListaOfertas from './anuncios/ListaOfertas.jsx'
+import Footer from './footer/Footer.jsx'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <OfertaDoDia></OfertaDoDia>
     <OfertaEletronicos></OfertaEletronicos>
     <ListaOfertas></ListaOfertas>
+    <Footer></Footer>
     </>
   )
 }
